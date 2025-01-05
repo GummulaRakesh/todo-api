@@ -20,7 +20,7 @@ This is a REST API for managing a simple To-Do List application. The API allows 
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/todo-api.git
+git clone https://github.com/GummulaRakesh/todo-api.git
 cd todo-api
 ```
 
@@ -179,6 +179,6 @@ Authorization: Bearer <your_token>
 
 ---
 
-**Author:** Your Name  
-**GitHub:** [your-github-link]
+**Author:** Rakesh Gummula  
+**GitHub:** https://github.com/GummulaRakesh
 
